@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.MSSQLServer", "1.MSSQLServer", "{BBF8CFEF-EDEB-4C75-A90F-3204989BA1C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.MySQL", "2.MySQL", "{45DED90E-821D-461D-A7C7-C5C1F8A70BDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Oracle", "3.Oracle", "{C3BC064E-5D5D-408E-AF3D-238617B6BDCB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.PgAdmin", "4.PgAdmin", "{E0960622-0620-4F35-95B9-24ABA78C87D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.MongoDb", "5.MongoDb", "{5C56111C-1A8C-4DBB-AB09-7F7E74316E79}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
